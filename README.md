@@ -1,6 +1,7 @@
 # Tic-Tac-Toe
 
 Welcome to the Tic Tac Toe game repository! This simple web-based game is built using HTML, CSS, and JavaScript. It's a classic two-player game where you can challenge a friend to a friendly match of Tic Tac Toe.
+Click Here:- https://akshitasaxena1309.github.io/Tic-Tac-Toe/
 
 **Table of Contents**
 
